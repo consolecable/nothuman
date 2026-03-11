@@ -1,0 +1,171 @@
+{
+  "ai_vocabulary_words": [
+    "additionally","furthermore","moreover","notably","interestingly","significantly","remarkably","crucially","vitally","importantly",
+    "arguably","undoubtedly","clearly","evidently","particularly","especially","specifically","generally","broadly","typically",
+    "delve","delves","delving","delved",
+    "highlight","highlights","highlighting","highlighted",
+    "underscore","underscores","underscoring","underscored",
+    "emphasize","emphasizes","emphasizing","emphasized",
+    "showcase","showcases","showcasing","showcased",
+    "illustrate","illustrates","illustrating","illustrated",
+    "demonstrate","demonstrates","demonstrating","demonstrated",
+    "exemplify","exemplifies","exemplifying","exemplified",
+    "garner","garnered","garnering",
+    "enhance","enhances","enhancing","enhanced",
+    "foster","fosters","fostering","fostered",
+    "facilitate","facilitates","facilitating","facilitated",
+    "enable","enables","enabling","enabled",
+    "empower","empowers","empowering","empowered",
+    "pivotal","integral","essential","fundamental","critical",
+    "dynamic","vibrant","diverse","innovative","unique",
+    "remarkable","notable","significant","prominent",
+    "renowned","celebrated","intricate","complex","multifaceted",
+    "landscape","framework","context","environment",
+    "tapestry","ecosystem","interplay","synergy",
+    "transformative","evolving","cutting-edge","groundbreaking",
+    "valuable","insightful","compelling","fascinating","noteworthy"
+  ],
+
+  "generic_positive_descriptors": [
+    "rich","vibrant","thriving","dynamic","diverse","innovative","unique","remarkable","notable","significant",
+    "important","crucial","vital","prominent","renowned","fascinating","compelling","captivating",
+    "extraordinary","outstanding","exceptional","impressive","noteworthy","impactful","meaningful",
+    "valuable","influential","far-reaching","groundbreaking","trailblazing","visionary","forward-thinking",
+    "robust","sustainable","efficient","effective","adaptive","flexible","resilient"
+  ],
+
+  "promotional_phrases": [
+    "rich cultural heritage","rich history","vibrant culture","vibrant community","vibrant arts scene",
+    "thriving hub","breathtaking landscapes","stunning natural beauty","stunning scenery",
+    "must-visit destination","must-see attraction","hidden gem","nestled in the heart of",
+    "situated in the heart of","renowned for its","celebrated for its","known for its",
+    "widely known for","recognized for its","stands as a testament to","serves as a testament to",
+    "plays a pivotal role","plays an integral role","deeply rooted tradition","deeply rooted heritage",
+    "lasting legacy","enduring legacy","rich cultural tapestry","unique blend of tradition and modernity",
+    "center of innovation","center of excellence","hub of activity","cornerstone of the community",
+    "flagship initiative","leading example","model of success"
+  ],
+
+  "editorializing_phrases": [
+    "it is important to note","it is important to remember","it is important to consider",
+    "it is worth noting","it should be noted","it should be emphasized","it must be noted",
+    "interestingly","notably","significantly","clearly","undoubtedly","arguably",
+    "needless to say","without a doubt","it goes without saying",
+    "no discussion would be complete without","it is clear that","it becomes clear that",
+    "it can be argued that","it is widely believed that",
+    "this article explores","this section explores","this section examines",
+    "this article will discuss","this article aims to","this section highlights"
+  ],
+
+  "transition_phrases": [
+    "additionally","furthermore","moreover","in addition","however","on the other hand","in contrast",
+    "conversely","similarly","likewise","meanwhile","therefore","thus","as a result","consequently",
+    "for example","for instance","in other words","that said","having said that","by comparison",
+    "alternatively","at the same time","in the meantime","beyond that","above all",
+    "subsequently","prior to this","following this","in turn","accordingly"
+  ],
+
+  "summary_phrases": [
+    "in summary","to summarize","in conclusion","overall","in short","all in all","ultimately",
+    "taken together","to sum up","in brief","in closing","the key takeaway is","the main takeaway is",
+    "to conclude","in essence","in retrospect"
+  ],
+
+  "formulaic_section_titles": [
+    "overview","background","introduction","history","development","context",
+    "significance","impact","legacy","modern relevance","current relevance",
+    "applications","uses","case studies","analysis","evaluation",
+    "challenges","challenges and opportunities","challenges and legacy",
+    "future outlook","future prospects","future directions",
+    "conclusion","summary","methodology","discussion"
+  ],
+
+  "challenge_template_phrases": [
+    "despite its success","despite its achievements","despite its positive impact",
+    "despite these strengths","faces several challenges","faces ongoing challenges",
+    "faces a number of challenges","however challenges remain","despite these challenges",
+    "while progress has been made","nevertheless challenges persist",
+    "moving forward","looking ahead","continues to evolve","continues to develop",
+    "remains an area of active discussion","remains a subject of debate"
+  ],
+
+  "rule_of_three_patterns": [
+    "economic, social, and cultural","local, regional, and global",
+    "historic, cultural, and economic","innovative, efficient, and sustainable",
+    "diverse, vibrant, and dynamic","political, economic, and social",
+    "technological, economic, and cultural","practical, efficient, and scalable",
+    "accessible, affordable, and effective","flexible, adaptable, and resilient",
+    "rapid, reliable, and scalable","modern, efficient, and user-friendly"
+  ],
+
+  "vague_attribution_phrases": [
+    "some experts say","many experts believe","experts suggest",
+    "research suggests","studies show","studies suggest",
+    "it is widely believed","it is often argued",
+    "critics argue","supporters argue","observers note",
+    "scholars suggest","many scholars believe","some researchers claim",
+    "analysts suggest","according to experts","according to analysts",
+    "researchers have noted","it has been suggested"
+  ],
+
+  "chatbot_conversational_phrases": [
+    "certainly","of course","absolutely","you're right","you're absolutely right",
+    "great question","that's a great question","thanks for asking",
+    "I hope this helps","let me know if you need anything else",
+    "feel free to ask","would you like me to","if you'd like",
+    "here is a summary","here is a breakdown","here is a detailed explanation",
+    "let me explain","here is an overview"
+  ],
+
+  "knowledge_cutoff_disclaimers": [
+    "as of my last training update","as of my last knowledge update","as of my last update",
+    "based on available information","based on current information",
+    "information may be limited","details are limited","specific information is scarce",
+    "not widely documented","not widely available","available sources suggest",
+    "in the available sources","in the provided sources",
+    "according to available information"
+  ],
+
+  "ai_identity_disclaimers": [
+    "as an AI language model","as a large language model",
+    "I cannot provide medical advice","I cannot provide legal advice",
+    "I cannot browse the internet","I do not have real-time data",
+    "I do not have access to external databases","I cannot access current events",
+    "I cannot verify information in real time","I cannot directly edit Wikipedia"
+  ],
+
+  "structural_patterns": [
+    "not only but also","both and","either or",
+    "on the one hand on the other hand",
+    "firstly secondly thirdly",
+    "in recent years","over the years","throughout history",
+    "in modern times","in today's world","in contemporary society",
+    "in the modern era","in a rapidly changing world"
+  ],
+
+  "generic_context_openers": [
+    "in recent years","throughout history","in today's world",
+    "in the modern era","in contemporary society",
+    "over the past decades","in a rapidly changing world",
+    "in the broader context","in this context",
+    "within this framework","against this backdrop",
+    "from this perspective","in this regard"
+  ],
+
+  "llm_sentence_templates": [
+    "this highlights the importance of",
+    "this underscores the significance of",
+    "this demonstrates how",
+    "this illustrates the need for",
+    "this reflects broader trends in",
+    "this can be seen in",
+    "this suggests that",
+    "this indicates that",
+    "this reinforces the idea that",
+    "this raises important questions about",
+    "this provides valuable insights into",
+    "this offers a compelling example of",
+    "this sheds light on",
+    "this points to the broader implications of"
+  ]
+}
