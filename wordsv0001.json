@@ -1,5 +1,7 @@
-[
-  "quietly",
+ample words · JSON
+{
+  "AI Words": [
+    "quietly",
   "deeply",
   "fundamentally",
   "remarkably",
@@ -57,4 +59,8 @@
   "observers have cited",
   "from innovation to",
   "and so we return"
-]
+
+  ]
+  "Normal Words": [
+    "the",
+}
